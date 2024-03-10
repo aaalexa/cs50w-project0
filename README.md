@@ -5,6 +5,8 @@ Front-end para Búsqueda de Google, Google Imágenes y Google Busqueda Avanzada:
 
 Este proyecto es una implementación del front-end para la búsqueda en Google, Google Imágenes y la búsqueda avanzada de Google. Proporciona una interfaz simple y funcional para realizar búsquedas en Google y Google Imágenes, así como acceder a la búsqueda avanzada de Google.
 
+
+
 Estructura del Proyecto:
 
 
@@ -22,11 +24,15 @@ Estructura del Proyecto:
 
 │   README.md             # Documentación del proyecto
 
+
+
 Tecnologías utilizadas
 
 HTML
 
 CSS
+
+
 
 Uso:
 
@@ -39,6 +45,8 @@ Abre el archivo HTML deseado en tu editor de texto o IDE preferido.
 Modifica el código según tus necesidades.
 
 Guarda los cambios y abre el archivo HTML en un navegador web.
+
+
 
 Créditos:
 
