@@ -53,4 +53,4 @@ Créditos:
 Este proyecto fue creado por Alexa Reynosa (estudiante de Web50 Nicaragua, grupo:B)
 
 
-Haz click aqui para visitar el sitio: https://aaalexa.github.io/cs50w-project0/
+
